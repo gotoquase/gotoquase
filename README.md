@@ -2,7 +2,7 @@
 
 <h2>Sobre mim</h2>
 <img src="https://media1.tenor.com/m/i3lImBg2UEQAAAAd/scaler-create-impact.gif" alt="a cartoon of homer simpson typing on a keyboard with the words &quot; the ultra pro programmers be like &quot; above him" width="300" align="right" style="padding-bottom: 10px; margin-left: 70px; border-radius: 30px;">
-<p> Trabalho como desenvolvedor Front-End há mais de 4 anos, minha especialidade é no desenvolvimento web, mas tenho a pretensão de me tornar um desenvolvedor Fullstack Senior para Web e Mobile. Tenho 27 anos e moro em Itaquaquecetuba–SP.</p>
+<p> Trabalho como desenvolvedor Front-End há mais de 4 anos, minha especialidade é no desenvolvimento web, mas tenho a pretensão de me tornar um desenvolvedor Fullstack Senior para Web e Mobile. Tenho 27 anos e moro em Curitiba-PR.</p>
 <p>Sou bacharel em Sistemas da Informação pela faculdade Sumaré, possuo experiência trabalhando em equipes com metodologias ágeis (Kanban e Scrum utilizando a plataforma Jira) e no controle de versionamento com Git utilizando as plataformas GitHub e GitLab.</p>
 <p>Atualmente estou estudando algumas ferramentas para realizar testes no back-end (Jest e Jasmine) e lendo os seguintes livros:</p>
 <ul>
@@ -12,8 +12,8 @@
 </ul>
 <p>Quero manter uma constância de estudos em toda a minha carreira para aprimorar e me aprofundar sobre os meus conhecimentos técnicos e minhas habilidades comportamentais. Tenho uma imensa vontade de aprender novas ferramentas e linguagens, quero também compartilhar todo o meu conhecimento adquirido com todas as pessoas que se interessarem.</p>
 
-<div align="center">
-<h2 >🛠️ Habilidades</h2>
+<div align="left">
+<h2 align="center" >🛠️ Habilidades</h2>
 
 <table>
   <tr>
